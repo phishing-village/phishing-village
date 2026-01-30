@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://phishing-village.github.io/phishing-village/",
+  "homepage": "https://phishing-village.github.io",
   "scripts": {
     "build": "vite build",
     "predeploy": "npm run build",
